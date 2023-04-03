@@ -1,0 +1,3 @@
+\\SERV-1C\DelfaBot\sqlParserMarks.pdb
+\\SERV-1C\DelfaBot\sni.dll
+\\SERV-1C\DelfaBot\sqlParserMarks.exe
